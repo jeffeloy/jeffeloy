@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hello fellow developers! I'm Jefferson Eloy 👋</h1>
+<h3 align="center">Fullstack developer in evolution passionated about the JavaScript ecosystem.</h3>
 
-<!--
-**jeffeloy/jeffeloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently dont't working
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/jeffeloy)
+- 💬 Ask me about *HTML, CSS, JavaScript, PHP, Laravel, Node.js*
+- 🌱 I’m currently learning *React, React Native, Node.js*
+- 📫 How to reach me *contatojeloydev@gmail.com*
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffeloy&show_icons=true&count_private=true" /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffeloy&layout=compact" /> 
+</p>
